@@ -7,11 +7,11 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'nt7kSM74Kk96vgJ',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namabot = "「AYY」BOTZ 、V1 戈"
+global.namaowner = "ARIYA TEGUH"
 global.packname = namabot
 global.author = namaowner
 global.myweb = "https://s.id/zeeoneofc"
@@ -26,11 +26,11 @@ global.prefa = ['-_-']
 global.grup_only = false //bot hanya bisa di gunakan dalam grup jika true
 global.mess = {
     done: 'Done ✅',
-    wait: '_⌛ Sedang di proses_',
+    wait: '```⌛ LOADING...```',
     admin: '_Fitur Khusus Admin Group_',
     botNotAdmin: '_Jadikan Bot Sebagai Admin Terlebih Dahulu_',
-    owner: '_Fitur Khusus Owner Bot_',
-    group: '_Fitur Khusus Dalam Group_',
+    owner: '*「ᴏᴡɴᴇʀ ᴏɴʟʏ」*',
+    group: '*「ɢʀᴜᴘ ᴏɴʟʏ」*',
 }
 global.butwel =  [{
    buttonId: '.menu',
